@@ -31,11 +31,11 @@ export default function Hero() {
           </h1>
           <div className="flex flex-col md:flex-row gap-4 justify-center items-center mb-12">
             <div className="text-2xl md:text-3xl font-semibold text-gray-700">
-              Ahmad & Siti
+              Jaelani & Dian
             </div>
             <div className="w-24 h-px bg-gradient-to-r from-transparent via-gold to-transparent" />
             <div className="text-xl md:text-2xl font-medium text-rose-gold">
-              31 Desember 2024
+              25 Mei 2026
             </div>
           </div>
         </motion.div>
